@@ -1,0 +1,15 @@
+# Python derleme dosyaları
+__pycache__/
+*.pyc
+
+# Sanal ortam
+venv/
+env/
+
+# PyInstaller çıktıları
+build/
+dist/
+*.spec
+
+# Sistem dosyaları
+.DS_Store
