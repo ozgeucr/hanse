@@ -10,7 +10,6 @@ Mouse kontrolü, sanal klavye ile yazı yazma, ses/parlaklık ayarı ve ekran g�
 
 
 ## 🎥 Demo
-*(Buraya proje çalışırken çektiğin ekran kaydının GIF halini ekleyeceksin)*
 ![Demo GIF](demo_placeholder.gif)
 
 ## ✨ Özellikler
